@@ -1,0 +1,1 @@
+This project is implementation of  some javascript's arrays method.
